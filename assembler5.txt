@@ -1,0 +1,10 @@
+JMP table
+DB 5 
+table: 
+MOV a, 5
+MOV b, a 
+chair: 
+DEC B 
+MUL B 
+CMP B,1 
+JNE chair
