@@ -1,0 +1,8 @@
+JMP bus 
+DB 5 
+DB 11 
+bus: 
+MOV A, 15 
+MOV B, 11 
+ADD A, B 
+MOV B, 0
