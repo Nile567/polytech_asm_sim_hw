@@ -1,2 +1,8 @@
-MOV A, 2
-MOV B, 11
+MOV A,2
+MOV B,11
+
+MOV A,2
+MOV B,11
+MOV C,A 
+MOV A,B 
+MOV B,C 
